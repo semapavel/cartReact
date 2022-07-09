@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/git%20remote%20add%20origin%20https://github.com/semapavel/cartReact.git/static/css/main.203e6b56.css",
+    "main.js": "/git%20remote%20add%20origin%20https://github.com/semapavel/cartReact.git/static/js/main.fdcd07f6.js",
+    "index.html": "/git%20remote%20add%20origin%20https://github.com/semapavel/cartReact.git/index.html",
+    "main.203e6b56.css.map": "/git%20remote%20add%20origin%20https://github.com/semapavel/cartReact.git/static/css/main.203e6b56.css.map",
+    "main.fdcd07f6.js.map": "/git%20remote%20add%20origin%20https://github.com/semapavel/cartReact.git/static/js/main.fdcd07f6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.203e6b56.css",
+    "static/js/main.fdcd07f6.js"
+  ]
+}
