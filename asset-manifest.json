@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/searchRepository/static/css/main.203e6b56.css",
-    "main.js": "/searchRepository/static/js/main.fdcd07f6.js",
-    "index.html": "/searchRepository/index.html",
-    "main.203e6b56.css.map": "/searchRepository/static/css/main.203e6b56.css.map",
-    "main.fdcd07f6.js.map": "/searchRepository/static/js/main.fdcd07f6.js.map"
+    "main.css": "/cartReact/static/css/main.203e6b56.css",
+    "main.js": "/cartReact/static/js/main.fdcd07f6.js",
+    "index.html": "/cartReact/index.html",
+    "main.203e6b56.css.map": "/cartReact/static/css/main.203e6b56.css.map",
+    "main.fdcd07f6.js.map": "/cartReact/static/js/main.fdcd07f6.js.map"
   },
   "entrypoints": [
     "static/css/main.203e6b56.css",
